@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-hello world test run
+This repository was created to revisit tutorial for github
